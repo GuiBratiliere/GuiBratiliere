@@ -1,8 +1,8 @@
-# 
+# 🧑‍💻 Guilherme Bratiliere
 
 **`Desenvolvedor FullStack/Mobile`**
 
-
+Me chamo Guilherme Alcides Barbosa Bratiliere, tenho 23 anos sou natural de Belo horizonte - MG. Estou cursando ciência da computação no instituto Newton paiva, tinha a tecnologia como um hobbie e hoje ela faz parte do meu dia a dia adquirindo conhecimento e me aperfeiçoando cada vez mais.
 
 <p align="left">
     <a href="https://github.com/GuiBratiliere?tab=repositories&sort=stargazers">
