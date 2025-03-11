@@ -79,9 +79,8 @@ Me chamo Guilherme Alcides Barbosa Bratiliere, tenho 23 anos sou natural de Belo
     title="Python"
     width="30px" 
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
-
 
 <br/>
 <br/>
@@ -96,6 +95,7 @@ Me chamo Guilherme Alcides Barbosa Bratiliere, tenho 23 anos sou natural de Belo
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=GuiBratiliere&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
+          
 
 <img 
       align="left" 
